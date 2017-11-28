@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>className</key>
+		<string>HBMainViewController</string>
+		<key>isSelected</key>
+		<false/>
+		<key>selectedImage</key>
+		<string>tab_home_icon</string>
+		<key>defaultImage</key>
+		<string>tab_home_icon</string>
+		<key>TabTitle</key>
+		<string>首页</string>
+	</dict>
+	<dict>
+		<key>className</key>
+		<string>HBMeViewController</string>
+		<key>isSelected</key>
+		<true/>
+		<key>selectedImage</key>
+		<string>tab_user_icon</string>
+		<key>defaultImage</key>
+		<string>tab_user_icon</string>
+		<key>TabTitle</key>
+		<string>我的</string>
+	</dict>
+	<dict>
+		<key>className</key>
+		<string>HBOtherViewController</string>
+		<key>isSelected</key>
+		<false/>
+		<key>selectedImage</key>
+		<string>tab_other_icon</string>
+		<key>defaultImage</key>
+		<string>tab_other_icon</string>
+		<key>TabTitle</key>
+		<string>其他</string>
+	</dict>
+</array>
+</plist>

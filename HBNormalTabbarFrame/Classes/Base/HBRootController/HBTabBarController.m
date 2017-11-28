@@ -17,7 +17,6 @@
 
 @implementation HBTabBarController
 
-//
 - (instancetype)initWithTabsBeanArr:(NSArray *)tabsBeanArr
 {
     self = [super init];
